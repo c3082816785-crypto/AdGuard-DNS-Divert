@@ -1,4 +1,4 @@
-# QuanX proxy规则（合并后共23869条）
+# QuanX proxy规则（合并后共23870条）
 # 最后更新: domain_to_quanx.py 自动生成
 
 host-suffix, 000webhost.com, proxy
@@ -15768,6 +15768,7 @@ host-suffix, onekeycn.com, proxy
 host-suffix, onenote.com, proxy
 host-suffix, onenote.net, proxy
 host-suffix, oneplus.com, proxy
+host-suffix, oneplus.net, proxy
 host-suffix, onepornlist.com, proxy
 host-suffix, onesiterip.com, proxy
 host-suffix, onestore.ms, proxy
