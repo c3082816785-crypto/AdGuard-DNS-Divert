@@ -3158,6 +3158,7 @@ baec.ac.uk
 baes.ac.uk
 bafa.ac.uk
 bag-glasses1.com
+bahamut.akamaized.net
 bahamut.com.tw
 bahcesehir.ac.uk
 bai29.xyz
@@ -3372,6 +3373,7 @@ bcam.ac.uk
 bcast.ac.uk
 bcast.co.nz
 bcbits.com
+bcbolt446c5271-a.akamaihd.net
 bcbolthboa-a.akamaihd.net
 bcc.ac.uk
 bcc.com.tw
@@ -7631,6 +7633,7 @@ d2bay.com
 d2mrry2to5rg.com
 d2pass.com
 d3196yreox78o9.cloudfront.net
+d349g9zuie06uo.cloudfront.net
 d3c7rimkq79yfu.cloudfront.net
 d9.flashtalking.com
 da-files.com
@@ -12946,6 +12949,7 @@ gsmd.ac.uk
 gsmlondon.ac.uk
 gsp.target.com
 gsp4-cn.ls.apple.com.edgekey.net
+gspe1-ssl.ls.apple.com
 gsrc.io
 gssw.ac.uk
 gstatic-cn.com
@@ -13104,6 +13108,7 @@ halton-acl.ac.uk
 haltoncollege.ac.uk
 hamec.ac.uk
 hami-mod.buzz
+hamifans.emome.net
 hampsteadscience.ac.uk
 hamsterfucktube.com
 hamsterporn.tv
@@ -15813,6 +15818,7 @@ itunesu.net
 itutility.ac.uk
 itv
 itv.com
+itvpnpmobile-a.akamaihd.net
 itvstatic.com
 itweet.net
 iu45.com
@@ -16716,6 +16722,7 @@ kkff2484.live
 kkiah.com
 kknews.cc
 kktix.com
+kktv-theater.kk.stream
 kktv.com.tw
 kktv.me
 kl.ac.uk
@@ -19683,6 +19690,7 @@ museumwales.ac.uk
 mushroomtrack.com
 mushymush.tv
 music-research.ac.uk
+music.youtube.com
 musicade.net
 musical.ly
 musicandphilosophy.ac.uk
@@ -28115,6 +28123,7 @@ tickdata.com
 ticket.com.tw
 tictoc.video
 tictocs.ac.uk
+tidal-cms.s3.amazonaws.com
 tidal.com
 tidalhifi.com
 tidelift.com
