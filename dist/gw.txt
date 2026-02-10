@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-02-09 09:00:57
+# 自动生成于 2026-02-10 09:09:00
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -64,7 +64,7 @@ https://1.12.12.12/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32900 个域名，逐条规则）
+# 国外域名规则（共 32892 个域名，逐条规则）
 # 已排除 19 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -4317,7 +4317,6 @@ https://1.12.12.12/dns-query
 [/blog.kangye.org/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/blog.lester850.info/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/blog.martinoei.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/blog.ontrac.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/blog.pathtosharepoint.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/blog.pentalogic.net/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/blog.qooza.hk/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -6106,7 +6105,6 @@ https://1.12.12.12/dns-query
 [/cdn-telegram.org/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/cdn-terapeak.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/cdn.ac.uk/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/cdn.ampproject.org/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/cdn.angruo.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/cdn.assets.lfpcontent.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/cdn.helixstudios.net/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -15053,7 +15051,6 @@ https://1.12.12.12/dns-query
 [/imdb/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/imdb.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/imdb.to/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/ime.baidu.jp/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/imems.ac.uk/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/imessage.tv/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/imet.ac.uk/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -21148,7 +21145,6 @@ https://1.12.12.12/dns-query
 [/nra/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/nradio.me/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/nrc.ac.uk/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/nrch.culture.tw/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/nrdh99.buzz/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/nrk.no/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/nrn-lcee.ac.uk/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -26932,7 +26928,6 @@ https://1.12.12.12/dns-query
 [/storcuram.ac.uk/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/store-bridgestonesports.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/store.apple.com.edgekey.net/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/store.sprite.org/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/storesense.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/stories.google/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/storiesofchange.ac.uk/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -31372,7 +31367,6 @@ https://1.12.12.12/dns-query
 [/www-sms-apple.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/www.abclite.net/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/www.ajsands.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/www.ampproject.org/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/www.antd.org/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/www.aolnews.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/www.apple.com.edgekey.net/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -31384,7 +31378,6 @@ https://1.12.12.12/dns-query
 [/www.eastturkistan.net/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/www.gmiddle.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/www.gmiddle.net/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/www.google.cn/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/www.googleadapis.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/www.hustlercash.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/www.idlcoyote.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -31884,7 +31877,6 @@ https://1.12.12.12/dns-query
 [/xvxxtube.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/xwbo.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/xx-map.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/xx.wwwhost.biz/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/xx9.app/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/xxbay.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/xxbb9.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io

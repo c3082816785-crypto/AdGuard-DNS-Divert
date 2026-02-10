@@ -4253,7 +4253,6 @@ blog.jp
 blog.kangye.org
 blog.lester850.info
 blog.martinoei.com
-blog.ontrac.com
 blog.pathtosharepoint.com
 blog.pentalogic.net
 blog.qooza.hk
@@ -6043,7 +6042,6 @@ cdn-spotify-experiments.conductrics.com
 cdn-telegram.org
 cdn-terapeak.com
 cdn.ac.uk
-cdn.ampproject.org
 cdn.angruo.com
 cdn.assets.lfpcontent.com
 cdn.helixstudios.net
@@ -14993,7 +14991,6 @@ imb.org
 imdb
 imdb.com
 imdb.to
-ime.baidu.jp
 imems.ac.uk
 imessage.tv
 imet.ac.uk
@@ -21091,7 +21088,6 @@ nr-data.net
 nra
 nradio.me
 nrc.ac.uk
-nrch.culture.tw
 nrdh99.buzz
 nrk.no
 nrn-lcee.ac.uk
@@ -26879,7 +26875,6 @@ storagenewsletter.com
 storcuram.ac.uk
 store-bridgestonesports.com
 store.apple.com.edgekey.net
-store.sprite.org
 store.steampowered.com
 storesense.com
 stories.google
@@ -31327,7 +31322,6 @@ www-paypal.us
 www-sms-apple.com
 www.abclite.net
 www.ajsands.com
-www.ampproject.org
 www.antd.org
 www.aolnews.com
 www.apple.com.edgekey.net
@@ -31339,7 +31333,6 @@ www.dwheeler.com
 www.eastturkistan.net
 www.gmiddle.com
 www.gmiddle.net
-www.google.cn
 www.googleadapis.com
 www.hustlercash.com
 www.idlcoyote.com
@@ -31839,7 +31832,6 @@ xvxx.stream
 xvxxtube.com
 xwbo.com
 xx-map.com
-xx.wwwhost.biz
 xx9.app
 xxbay.com
 xxbb9.com
