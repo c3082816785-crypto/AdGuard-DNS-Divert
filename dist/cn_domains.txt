@@ -68772,6 +68772,7 @@ nextvid.net
 nextworkshop.net
 nextyu.com
 nexus-holding.com
+nexus.dell.com
 nexusedgeio.com
 nexushd.org
 neyetwatcher.com
@@ -82681,6 +82682,7 @@ si-en.com
 si-era.com
 si-in.com
 si-win.com
+si.cdn.dell.com
 sia1995.net
 siad-c.com
 siaedu.net
@@ -85091,6 +85093,7 @@ store12.com
 storeapi.net
 storecorefulfillment.download.prss.microsoft.com
 storeedge.microsoft.com
+storeedgefd.dsx.mp.microsoft.com
 storkapp.me
 stormorai.com
 stormsend.dji.com

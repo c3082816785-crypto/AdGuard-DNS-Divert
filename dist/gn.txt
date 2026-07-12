@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 白名单模式（逐条规则）
-# 自动生成于 2026-07-11 15:22:16
+# 自动生成于 2026-07-12 15:49:57
 # 白名单模式：命中国内域名走国内DNS，其他走国外DNS
 # 包含自定义域名DNS规则
 
@@ -64,7 +64,7 @@ quic://8e918b.dns.nextdns.io
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国内域名规则（共 112032 个域名，逐条规则）
+# 国内域名规则（共 112035 个域名，逐条规则）
 # 已排除 27 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/0.xn--czrs0t/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query
@@ -68829,6 +68829,7 @@ quic://8e918b.dns.nextdns.io
 [/nextworkshop.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query
 [/nextyu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query
 [/nexus-holding.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query
+[/nexus.dell.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query
 [/nexusedgeio.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query
 [/nexushd.org/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query
 [/neyetwatcher.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query
@@ -82735,6 +82736,7 @@ quic://8e918b.dns.nextdns.io
 [/si-era.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query
 [/si-in.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query
 [/si-win.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query
+[/si.cdn.dell.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query
 [/sia1995.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query
 [/siad-c.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query
 [/siaedu.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query
@@ -85144,6 +85146,7 @@ quic://8e918b.dns.nextdns.io
 [/storeapi.net/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query
 [/storecorefulfillment.download.prss.microsoft.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query
 [/storeedge.microsoft.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query
+[/storeedgefd.dsx.mp.microsoft.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query
 [/storkapp.me/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query
 [/stormorai.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query
 [/stormsend.dji.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query
