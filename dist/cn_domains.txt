@@ -28559,6 +28559,7 @@ devedu.net
 develenv.com
 developer.dji.com
 developer.htcvive.com
+developer.microsoft.com
 developer.vive.com
 developers.pub
 developwechat.com
@@ -61765,6 +61766,7 @@ live.hhtv.cc
 live.hnzzzzzdst.com
 live.lxzc.net
 live.ntdimg.com
+live.qinyangtv.com
 live.sccxtv.com
 live.sichuanmianning.com
 live.sjsgdzx.com
