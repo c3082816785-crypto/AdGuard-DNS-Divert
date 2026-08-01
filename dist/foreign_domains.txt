@@ -343,7 +343,6 @@
 445gei.com
 445jun.com
 445nan.com
-44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
 44yu.cc
 4550.fun
 45porn.com
@@ -1169,12 +1168,10 @@ ahxxx.club
 ai
 ai-kan.net
 ai-wen.net
-ai.azure.com
 ai.binwang.me
 ai.com
 ai.dev
 ai.google
-ai.google.dev
 ai.studio
 ai3sd.ac.uk
 ai7995.site
@@ -1274,7 +1271,6 @@ aisejushi.com
 aisex.com
 aishegw.com
 aiss.anws.gov.tw
-aistudio.google.com
 ait.org.tw
 aiv-cdn.net
 aiv-delivery.net
@@ -1664,10 +1660,7 @@ amazonprimevideos.com
 amazonsdi.com
 amazonses.com
 amazonstudiosguilds.com
-amazontools.com
-amazontours.com
 amazontrust.com
-amazonuniversity.jobs
 amazonvideo.cc
 amazonvideo.com
 amazonvideodirect.com
@@ -1905,8 +1898,6 @@ aobo.com.au
 aoc.ac.uk
 aoc.cat
 aocc.ac.uk
-aod-dash-uk-live.akamaized.net
-aod-hls-uk-live.akamaized.net
 aofriend.com
 aofriend.com.au
 aojiao.org
@@ -1953,8 +1944,6 @@ api-secure.recaptcha.net
 api-verify.recaptcha.net
 api.ai
 api.futunn.com
-api.githubcopilot.com
-api.groq.com
 api.lbkrs.com
 api.linksalpha.com
 api.mixpanel.com
@@ -1966,8 +1955,6 @@ api.proxlet.com
 api.pureapk.com
 api.recaptcha.net
 api.steampowered.com
-api.together.xyz
-api.viu.now.com
 api.waqi.info
 api5.futunn.com
 apiary.io
@@ -2703,7 +2690,6 @@ attwirelesssolutions.com
 atube.sex
 atube.xxx
 atubex.com
-atv-ps.amazon.com
 atwiki.jp
 atypi.org
 au
@@ -2953,7 +2939,6 @@ avmoo.pw
 avn.com
 avnana5.com
 avnight-shipin.com
-avodmp4s3ww-a.akamaihd.net
 avoision.com
 avpanda.cc
 avphd.ac.uk
@@ -3175,7 +3160,6 @@ baec.ac.uk
 baes.ac.uk
 bafa.ac.uk
 bag-glasses1.com
-bahamut.akamaized.net
 bahamut.com.tw
 bahcesehir.ac.uk
 bai29.xyz
@@ -3195,7 +3179,6 @@ ballbustingtube.com
 balletwest.ac.uk
 baltimorebmw.com
 bam.ac.uk
-bam.nr-data.net
 bamgrid.com
 bams.ac.uk
 bamtoki.com
@@ -3240,7 +3223,6 @@ banorte.com
 bar
 baraero.com
 baramangaonline.com
-bard.google.com
 barefootnetworks.com
 barelist.com
 barenakedislam.com
@@ -3325,9 +3307,7 @@ bbc.mp-pxcdn.com
 bbc.net.uk
 bbc.pdn.tritondigital.com
 bbcchinese.com
-bbcfmt.hs.llnwd.net
 bbchat.tv
-bbci.co
 bbci.co.uk
 bbcmedia.co.uk
 bbcpersian.com
@@ -3392,8 +3372,6 @@ bcam.ac.uk
 bcast.ac.uk
 bcast.co.nz
 bcbits.com
-bcbolt446c5271-a.akamaihd.net
-bcbolthboa-a.akamaihd.net
 bcc.ac.uk
 bcc.com.tw
 bcchinese.net
@@ -5084,7 +5062,6 @@ bravoporn.com
 bravoteens.com
 bravotube.net
 bravotube.tv
-braze.com
 brazilpartneruniversity.com
 brazzer.com
 brazzers-porno.online
@@ -6068,9 +6045,7 @@ cdn.futustatic.com
 cdn.helixstudios.net
 cdn.js7k.com
 cdn.jwplayer.com
-cdn.optimizely.com
 cdn.printfriendly.com
-cdn.registerdisney.go.com
 cdn.seatguru.com
 cdn.segment.com
 cdn.softlayer.net
@@ -6195,7 +6170,6 @@ cetl4musicne.ac.uk
 ceug.ac.uk
 cex.io
 cf
-cf-images.ap-southeast-1.prod.boltdns.net
 cf-ipfs.com
 cf.ac.uk
 cfa
@@ -6224,7 +6198,6 @@ ch
 ch.shvoong.com
 ch9.ms
 chace.ac.uk
-challenges.cloudflare.com
 championshipseriesleague.com
 change.org
 changeip.name
@@ -6740,7 +6713,6 @@ clickedu.co.uk
 clickserve.cc-dt.com
 clickserver.googleads.com
 clien.net
-client-api.arkoselabs.com
 cliffcollege.ac.uk
 climate-lab-book.ac.uk
 climate-server.com
@@ -6967,7 +6939,6 @@ cof.ac.uk
 cofacts.tw
 coffeemanga.to
 cogc.ac.uk
-cognito-identity.us-east-1.amazonaws.com
 coin2co.in
 coinalyze.net
 coinbase.com
@@ -7133,7 +7104,6 @@ conscrypt.com
 conscrypt.org
 conservatoiresuk.ac.uk
 consilience.ac.uk
-console.groq.com
 constitutionalism.solutions
 constructware.com
 consul.io
@@ -7144,7 +7114,6 @@ containersonaws.com
 contechacademy.com
 contemp-hist-arch.ac.uk
 content.googleadapis.com
-content.jwplatform.com
 content.office.net
 contentful.com
 contest.com
@@ -7172,8 +7141,6 @@ coova.com
 coova.net
 coova.org
 copac.ac.uk
-copilot-proxy.githubusercontent.com
-copilot.cloud.microsoft
 copilot.microsoft.com
 copim.ac.uk
 copior.ac.uk
@@ -7587,9 +7554,7 @@ cwc.ac.uk
 cwcams.com
 cwcfe.ac.uk
 cwrc.ac.uk
-cws-hulu.conviva.com
 cws.ac.uk
-cws.conviva.com
 cx
 cy
 cy22.tv
@@ -7642,22 +7607,9 @@ d.cash
 d.pr
 d0z.net
 d100.net
-d151l6v8er5bdm.cloudfront.net
-d1k2us671qcoau.cloudfront.net
-d1sgwhnao7452x.cloudfront.net
-d1v5ir2lpwr8os.cloudfront.net
-d1xfray82862hr.cloudfront.net
-d22qjgkvxw22r6.cloudfront.net
-d25xi40x97liuc.cloudfront.net
-d27xxe7juh1us6.cloudfront.net
-d2anahhhmp1ffz.cloudfront.net
 d2bay.com
 d2mrry2to5rg.com
 d2pass.com
-d3196yreox78o9.cloudfront.net
-d349g9zuie06uo.cloudfront.net
-d3c7rimkq79yfu.cloudfront.net
-d9.flashtalking.com
 da-files.com
 da3dsoul.dev
 daboja18.com
@@ -7683,7 +7635,6 @@ daftsex-hd.com
 daftsex.com
 dagelijksestandaard.nl
 dagfs.com
-dai3fd1oh325y.cloudfront.net
 daidostup.ru
 dailidaili.com
 dailybasis.com
@@ -7829,7 +7780,6 @@ dcard.cc
 dcard.io
 dcard.link
 dcard.tw
-dcblivedazn.akamaized.net
 dcc.ac.uk
 dcd.ac.uk
 dcdp.ac.uk
@@ -8082,7 +8032,6 @@ dezyred.com
 df-bet.com
 dfas.mil
 dfn.org
-dfp6rglgjqszk.cloudfront.net
 dgaqp.com
 dgg.gg
 dghe.ac.uk
@@ -8263,7 +8212,6 @@ discountporn.club
 discover.ac.uk
 discovereconomics.ac.uk
 discovery.ac.uk
-discovery.com
 discoveryinvestigations.ac.uk
 discoveryplus.com
 discreet.com
@@ -8300,7 +8248,6 @@ disney.com.hk
 disney.com.tw
 disney.cz
 disney.de
-disney.demdex.net
 disney.dk
 disney.es
 disney.fi
@@ -8359,7 +8306,6 @@ disneynow.com
 disneypeoplesurveys.com
 disneyplus.bn5x.net
 disneyplus.com
-disneyplus.com.ssl.sc.omtrdc.net
 disneyredirects.com
 disneysrivieraresort.com
 disneystore.com
@@ -8440,7 +8386,6 @@ dmm.co.jp
 dmm.com
 dmmapis.com
 dmmrex.com
-dmqdd6hw24ucf.cloudfront.net
 dmthin.com
 dmthus.com
 dmtiny.com
@@ -9376,7 +9321,6 @@ edeka
 edengay.net
 edge-hill-college.ac.uk
 edge-skype-com.s-0001.s-msedge.net
-edge.api.brightcove.com
 edge.steam-dns.top.comcast.net
 edgecastcdn.net
 edgedatg.com
@@ -10016,7 +9960,6 @@ evanottyvideos.com
 evchk.wikia.com
 evemodels.com
 even.stream
-events.statsigapi.net
 eventsinfocus.org
 everia.club
 everipedia.org
@@ -10057,7 +10000,6 @@ excite.co.jp
 excitebots.com
 exe-coll.ac.uk
 exec-appointments.com
-execute-api.us-east-1.amazonaws.com
 exemplashe.ac.uk
 exeter.ac.uk
 exetercollege.ac.uk
@@ -10694,7 +10636,6 @@ feacbooke.com
 feacebook.com
 feanonlinear.com
 featurecam.com
-featuregates.org
 fecbbok.com
 fecbooc.com
 fecbook.com
@@ -11993,14 +11934,12 @@ gem.ac.uk
 gemfire.net
 gemfury.com
 gemini.com
-gemini.google.com
 gen.lib.rus.ec
 gen2.ac.uk
 gencraft.com
 gendai.net
 generated.photos
 generationpup.ac.uk
-generativelanguage.googleapis.com
 genesis.ac.uk
 genesys.ac.uk
 genet.ac.uk
@@ -12886,7 +12825,6 @@ gravitytank.com
 gray.ac.uk
 graylab.ac.uk
 grazie.ai
-grazie.aws.intellij.net
 grcb.ac.uk
 gre.ac.uk
 greasespot.net
@@ -12966,7 +12904,6 @@ gsmd.ac.uk
 gsmlondon.ac.uk
 gsp.target.com
 gsp4-cn.ls.apple.com.edgekey.net
-gspe1-ssl.ls.apple.com
 gsrc.io
 gssw.ac.uk
 gstatic-cn.com
@@ -13124,7 +13061,6 @@ halton-acl.ac.uk
 haltoncollege.ac.uk
 hamec.ac.uk
 hami-mod.buzz
-hamifans.emome.net
 hampsteadscience.ac.uk
 hamsterfucktube.com
 hamsterporn.tv
@@ -13230,12 +13166,6 @@ hbo
 hbo.com
 hbo.com.c.footprint.net
 hboasia.com
-hboasia1-i.akamaihd.net
-hboasia2-i.akamaihd.net
-hboasia3-i.akamaihd.net
-hboasia4-i.akamaihd.net
-hboasia5-i.akamaihd.net
-hboasialive.akamaized.net
 hbogo.co.th
 hbogo.com
 hbogo.eu
@@ -13245,13 +13175,10 @@ hbogoasia.id
 hbogoasia.ph
 hbogoasia.sg
 hbogoasia.tw
-hbogoprod-vod.akamaized.net
-hbolb.onwardsmg.com
 hbomax-images.warnermediacdn.com
 hbomax.com
 hbomaxcdn.com
 hbonow.com
-hbounify-prod.evergent.com
 hbox.jp
 hbrowse.com
 hbs.ac.uk
@@ -13755,7 +13682,6 @@ hizbuttahrir.org
 hjb246.top
 hjb7e9.top
 hjclub.info
-hjholdings.jp
 hk
 hk-pub.com
 hk.file.myqcloud.com
@@ -14401,9 +14327,7 @@ hulltraining.ac.uk
 huloo.cc
 huloo.tv
 hulu.com
-hulu.hb.omtrdc.net
 hulu.jp
-hulu.sc.omtrdc.net
 hulu.tv
 hulu.us
 huluaction.com
@@ -15835,7 +15759,6 @@ itunesu.net
 itutility.ac.uk
 itv
 itv.com
-itvpnpmobile-a.akamaihd.net
 itvstatic.com
 itweet.net
 iu45.com
@@ -15926,14 +15849,6 @@ japanporn.tv
 japantimes.co.jp
 japanxxxfilms.com
 japon-girls.com
-japonx.com
-japonx.net
-japonx.tv
-japonx.vip
-japronx.com
-japronx.net
-japronx.tv
-japronx.vip
 japteenx.com
 japxtube.com
 jas-mine.ac.uk
@@ -16359,7 +16274,6 @@ jquerymobile.com
 jqueryui.com
 jr24h.com
 jrs.ac.uk
-js-agent.newrelic.com
 js.org
 js.revsci.net
 jsati.com
@@ -16739,7 +16653,6 @@ kkff2484.live
 kkiah.com
 kknews.cc
 kktix.com
-kktv-theater.kk.stream
 kktv.com.tw
 kktv.me
 kl.ac.uk
@@ -16828,7 +16741,6 @@ kspcoin.com
 kssacademy.ac.uk
 kssdeanery.ac.uk
 ksyp10.com
-ktpx.amazon.com
 ktvu.com
 ktzhk.com
 ku77.xyz
@@ -17410,7 +17322,6 @@ littlehampton.ac.uk
 littlehj.com
 littlesexdolls.com
 litv.tv
-litvfreemobile-hichannel.cdn.hinet.net
 liu-xiaobo.org
 liudejun.com
 liuhanyu.com
@@ -17998,7 +17909,6 @@ makeeu.com
 makeitopen.com
 makeitrealcontest.com
 makemymood.com
-makersuite.google.com
 makesenseofdata.com
 makingassessmentcount.ac.uk
 makingstartshere.com
@@ -19277,7 +19187,6 @@ moapi1.online
 mobatek.net
 mobile.de
 mobile01.com
-mobileanalytics.us-east-1.amazonaws.com
 mobilecumbria.ac.uk
 mobilefacebook.com
 mobileinternational.com
@@ -19716,9 +19625,7 @@ mushroomtrack.com
 mushymush.tv
 music-research.ac.uk
 music.amazon.com
-music.youtube.com
 musicade.net
-musical.ly
 musicandphilosophy.ac.uk
 musicbay.net
 musiche.ac.uk
@@ -19982,8 +19889,6 @@ mytokenapi.com
 mytrannycams.com
 mytving.com
 mytvsuper.com
-mytvsuperlimited.hb.omtrdc.net
-mytvsuperlimited.sc.omtrdc.net
 myvisaluxuryhotels.com
 myvodafone.com.au
 myvodafone.com.ws
@@ -20373,7 +20278,6 @@ netflav1.com
 netflav5.com
 netflix.ca
 netflix.com
-netflix.com.edgesuite.net
 netflix.net
 netflixdnstest0.com
 netflixdnstest1.com
@@ -21042,7 +20946,6 @@ northumberland.ac.uk
 northumbria.ac.uk
 norwichresearchpark.ac.uk
 nos.nl
-notebooklm.google.com
 notepad-plus-plus.org
 notion-static.com
 notion.com
@@ -21096,7 +20999,6 @@ noxinfluencer.com
 noypf.com
 nozomi.la
 np
-np-edge.itunes.apple.com
 npa.go.jp
 npa.gov.tw
 npcrdc.ac.uk
@@ -21762,7 +21664,6 @@ open.com.hk
 open.firstory.me
 open.spotify.com
 openai.com
-openaiapi-site.azureedge.net
 openallweb.com
 openamt.com
 openapi-quote.longbridge.cn
@@ -22782,7 +22683,6 @@ platinumlinks.org
 play-asia.com
 play-bmm.shop
 play-bmmer.buzz
-play-edge.itunes.apple.com
 play4free.com
 playapex.com
 playartifact.com
@@ -22793,7 +22693,6 @@ playbydurex.com
 playcover.io
 player.fm
 playerjs.io
-players.brightcove.net
 playforceone.com
 playhearthstone.com
 playmation.com
@@ -23502,12 +23401,10 @@ procatdigital.ac.uk
 procatstudent.ac.uk
 procopytips.com
 proctoscopeexam.com
-prod.hjholdings.tv
 prodrive-japan.com
 product.co.jp
 productivemargins.ac.uk
 profile.ac.uk
-profile.line-scdn.net
 profilemaster.com
 profreeporno.com
 programme3.ac.uk
@@ -23681,7 +23578,6 @@ putinho.net
 putlocker.com
 putty.org
 puuko.com
-pv-cdn.net
 pvp.net
 pvp.tv
 pvt.sexy
@@ -23783,7 +23679,6 @@ qmul.ac.uk
 qmw.ac.uk
 qmzdd.com
 qnap.com
-qobuz.com
 qombol.com
 qoo10.jp
 qooqlevideo.com
@@ -25162,7 +25057,6 @@ seasidestory.tokyo
 seat
 seatguru.com
 seattlefdc.com
-seattlespheres.com
 secom.co.jp
 secomtrust.net
 second-ns.com
@@ -25251,7 +25145,6 @@ senss-dtp.ac.uk
 sensualgirls.org
 sensualmothers.com
 sensueel.net
-sentry.io
 senzuritv.net
 sepnet.ac.uk
 seqing.one
@@ -26939,7 +26832,6 @@ stratgroup.ac.uk
 strath.ac.uk
 strathclyde.ac.uk
 strathmore.ac.uk
-streaks.jp
 stream-mydirtyhobby.biz
 streamable.com
 streamate.com
@@ -27776,7 +27668,6 @@ theaffairs.com
 theage.com.au
 thealanturinginstitute.ac.uk
 thearden.ac.uk
-theater-kktv.cdn.hinet.net
 theatlantic.com
 theatrum-belli.com
 theaustralian.com.au
@@ -28152,7 +28043,6 @@ tickdata.com
 ticket.com.tw
 tictoc.video
 tictocs.ac.uk
-tidal-cms.s3.amazonaws.com
 tidal.com
 tidalhifi.com
 tidelift.com
@@ -28744,7 +28634,6 @@ tutanota.com
 tuvpn.com
 tuzaijidi.com
 tv
-tv.apple.com
 tv.com
 tv.google
 tv.jtbc.joins.com
@@ -28874,7 +28763,6 @@ twistys.com
 twit2d.com
 twitbrowser.net
 twitcause.com
-twitch-ext.rootonline.de
 twitch.tv
 twitchcdn.net
 twitchsvc.net
@@ -29511,6 +29399,7 @@ v-av.com
 v-has.com
 v-resort.ac.uk
 v.gd
+v.recipes
 v2.help
 v2.hysteria.network
 v2ex.co
@@ -29858,7 +29747,6 @@ videomega.tv
 videomo.com
 videopediaworld.com
 videopress.com
-videos-f.jwpsrv.com
 videos4sale.com
 videos6.com
 videosamadoresreais.com
@@ -30111,7 +29999,6 @@ vital.ac.uk
 vital247.org
 vitukali.com
 viu.com
-viu.now.com
 viu.tv
 viva
 vivahentai4u.net
@@ -30229,8 +30116,6 @@ vocativ.com
 vocn.tv
 vocus.cc
 vod-abematv.akamaized.net
-vod-dash-uk-live.akamaized.net
-vod-thumb-uk-live.akamaized.net
 vod.wwe.com
 vod360.net
 vodafone.co.uk
@@ -32255,7 +32140,6 @@ yaya.cyou
 yayabay.com
 yayadizhi.xyz
 yazhouse8.com
-yb.uncn.jp
 ycc.ac.uk
 ycoastco.ac.uk
 ycombinator.com
@@ -32606,7 +32490,6 @@ youtubego.com
 youtubego.com.br
 youtubego.id
 youtubego.in
-youtubei.googleapis.com
 youtubekids.com
 youtubemobilesupport.com
 youversion.com
@@ -32676,7 +32559,6 @@ yswet.com
 ysx-mm.com
 yt
 yt.be
-yt3.ggpht.com
 ytht.net
 ytimg.com
 ytn.co.kr
