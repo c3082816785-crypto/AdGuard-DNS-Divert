@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-10-25 10:42:33
+# 自动生成于 2026-10-26 10:40:19
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -64,7 +64,7 @@ https://1.12.12.12/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32992 个域名，逐条规则）
+# 国外域名规则（共 33000 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -108,6 +108,7 @@ https://1.12.12.12/dns-query
 [/123-hp.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/123av.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/123av.me/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/123av.org/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/123bin.cc/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/123dapp.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/123dappipad.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -16737,6 +16738,7 @@ https://1.12.12.12/dns-query
 [/kilmeadeandfriends.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/kimchi.tv/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/kimogirl.cc/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/kimootoko.net/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/kimosex.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/kimy.com.tw/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/kindgirls.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -19239,6 +19241,7 @@ https://1.12.12.12/dns-query
 [/miniwindsor.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/miniworkshop.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/miniyaletown.ca/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/minkch.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/minnano-av.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/minneapolisbmw.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/minneapolisbmw.net/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -19634,6 +19637,7 @@ https://1.12.12.12/dns-query
 [/movidius.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/movidius.net/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/movie-erog.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/movie.eroterest.net/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/movie1000.xyz/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/moviefap.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/moviepost.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -21026,7 +21030,9 @@ https://1.12.12.12/dns-query
 [/nixos.org/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/niziero.info/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/njactb.org/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/njav.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/njav.tv/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/njavtv.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/njncscotlandscolleges.ac.uk/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/njuice.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/nkc.ac.uk/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -22957,6 +22963,7 @@ https://1.12.12.12/dns-query
 [/pn/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/pnas.org/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/pnc/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/po-kaki-to.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/po18.tw/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/po2b.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/pobieramy.top/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -33021,6 +33028,7 @@ https://1.12.12.12/dns-query
 [/zorglist.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/zorrovpn.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/zozotown.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/zozovideo.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/zpn.im/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/zqqpwz.com/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/zsh.org/]https://wikimedia-dns.org:443/dns-query tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
